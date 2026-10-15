@@ -28,13 +28,11 @@ I bring a people-first approach to technology: experience in talent selection, p
 
 | Proyecto | Qué muestra | Enlace |
 | --- | --- | --- |
-| **Liga Robótica** | Recursos de robótica, electrónica y aprendizaje colaborativo | [Explorar](https://github.com/jpedraza42/ligaRobotica) |
-| **Git CTF** | Material de taller para practicar Git en entornos colaborativos; consulta la atribución de su repositorio | [Explorar](https://github.com/jpedraza42/Git_Ctf_42) |
 | **Push Swap** | Algoritmos, comparación de estrategias y benchmarking; proyecto compartido | [Explorar](https://github.com/jpedraza42/push_swap) |
 | **Libft** | Fundamentos de C, memoria y estructuras de datos | [Explorar](https://github.com/jpedraza42/libft) |
 | **Get Next Line** | Lectura incremental, buffers y gestión manual de memoria | [Explorar](https://github.com/jpedraza42/get_next_line) |
 
-Estos proyectos reflejan aprendizaje y trabajo técnico. Las contribuciones y autorías colaborativas se detallan en sus respectivos repositorios; no se presentan como experiencia profesional de dirección de ingeniería.
+Los proyectos destacados son ejercicios propios o colaboraciones con autoría expresamente indicada. Los repositorios compartidos de robótica y ciberseguridad quedan excluidos de este escaparate personal. Estos proyectos reflejan aprendizaje y trabajo técnico. Las contribuciones y autorías colaborativas se detallan en sus respectivos repositorios; no se presentan como experiencia profesional de dirección de ingeniería.
 
 ## People leadership toolkit | Herramientas para desarrollar talento tecnológico
 
