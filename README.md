@@ -23,6 +23,14 @@ I bring a people-first approach to technology: experience in talent selection, p
 - **People leadership:** motivación, comunicación, coordinación y desarrollo de equipos.
 - **Technology & business:** conectar las necesidades del negocio con proyectos y equipos técnicos.
 - **Software foundations:** programación en C, algoritmos, Git y prácticas de desarrollo de software.
+- **Python (en formación):** iniciando el aprendizaje de este lenguaje; todavía no presento proyectos Python como completados.
+- **Sistemas y virtualización:** proyecto Born2beroot completado en 42 Málaga Fundación Telefónica, centrado en la configuración y administración de una máquina virtual.
+
+## Technical learning | Formación técnica
+
+- **C y fundamentos de programación:** proyectos prácticos documentados en los repositorios públicos.
+- **Born2beroot — completado:** ejercicio de configuración de una máquina virtual del itinerario de **42 Málaga Fundación Telefónica**. Es un trabajo de configuración de sistemas, por lo que no se incluye un repositorio de código ni se publican imágenes de máquinas, usuarios, claves o configuraciones sensibles.
+- **Python — en curso:** comienzo de la formación; incorporaré ejercicios o proyectos únicamente cuando exista trabajo propio documentable.
 
 ## Selected projects | Proyectos destacados
 
