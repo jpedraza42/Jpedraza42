@@ -29,7 +29,7 @@ I bring a people-first approach to technology: experience in talent selection, p
 ## Technical learning | Formación técnica
 
 - **C y fundamentos de programación:** proyectos prácticos documentados en los repositorios públicos.
-- **Born2beroot — completado:** ejercicio de configuración de una máquina virtual del itinerario de **42 Málaga Fundación Telefónica**. Es un trabajo de configuración de sistemas, por lo que no se incluye un repositorio de código ni se publican imágenes de máquinas, usuarios, claves o configuraciones sensibles.
+- **Born2beroot — completado:** configuración de una máquina virtual del itinerario de **42 Málaga Fundación Telefónica**. He documentado mi [preparación de la defensa y las competencias trabajadas](./projects/born2beroot-case-study.md), sin publicar la VM ni datos sensibles.
 - **Python — en curso:** comienzo de la formación; incorporaré ejercicios o proyectos únicamente cuando exista trabajo propio documentable.
 
 ## Selected projects | Proyectos destacados
