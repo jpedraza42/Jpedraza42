@@ -36,6 +36,12 @@ I bring a people-first approach to technology: experience in talent selection, p
 
 Estos proyectos reflejan aprendizaje y trabajo técnico. Las contribuciones y autorías colaborativas se detallan en sus respectivos repositorios; no se presentan como experiencia profesional de dirección de ingeniería.
 
+## People leadership toolkit | Herramientas para desarrollar talento tecnológico
+
+He preparado una [metodología práctica de selección, incorporación, mentoring y desarrollo de equipos tecnológicos](./leadership/README.md), con guías reutilizables para entrevistas estructuradas, onboarding de 30/60/90 días y conversaciones de feedback.
+
+Estos materiales reflejan mi enfoque profesional y están en evolución: no representan resultados de equipos de ingeniería que no se hayan documentado y verificado.
+
 ## How I approach people and technology | Mi enfoque
 
 1. **Escuchar y entender:** identificar necesidades, fortalezas y oportunidades de desarrollo.
