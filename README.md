@@ -26,6 +26,10 @@ I bring a people-first approach to technology: experience in talent selection, p
 - **Python (en formación):** iniciando el aprendizaje de este lenguaje; todavía no presento proyectos Python como completados.
 - **Sistemas y virtualización:** proyecto Born2beroot completado en 42 Málaga Fundación Telefónica, centrado en la configuración y administración de una máquina virtual.
 
+## Impacto profesional | eXp Realty
+
+En mis funciones dentro del área de operaciones de **eXp Realty**, el trabajo de selección, formación y acompañamiento alcanzó a **más de 500 agentes inmobiliarios en España** (cifra aproximada facilitada por mí). También participé en motivación y organización de encuentros, presentaciones y congresos. Se trata del alcance de estas funciones, no de 500 contrataciones personales ni de un equipo de 500 personas bajo mi dirección directa.
+
 ## Technical learning | Formación técnica
 
 - **C y fundamentos de programación:** proyectos prácticos documentados en los repositorios públicos.
