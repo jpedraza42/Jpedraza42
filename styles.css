@@ -17,3 +17,5 @@
 .manifesto-link:hover,.manifesto-link:focus{border-bottom-color:var(--accent)}
 @media(max-width:850px){.manifesto{grid-template-columns:1fr;gap:50px;padding-top:74px}.manifesto-rings{max-width:285px}.manifesto-copy{max-width:680px}}
 @media(max-width:650px){.manifesto{padding:65px 24px 72px;gap:48px}.manifesto-rings{max-width:260px}.manifesto-rings::before{inset:17px}.manifesto-rings::after{inset:35px}.manifesto-signature{font-size:8px;letter-spacing:1.3px}.manifesto-copy h2{letter-spacing:-1.5px}}
+
+.projects-intro{max-width:770px;margin:25px 0 0;color:#5f6d74;font-size:16px;line-height:1.8}.project-links{display:flex;flex-wrap:wrap;gap:10px;margin:8px 0 15px}.project-links a{display:inline-block;padding:9px 11px;border:1px solid #a6b0a8;color:#263e48;font-size:12px;font-weight:700;text-decoration:none}.project-links a:hover,.project-links a:focus{border-color:#263e48;background:#f0f3e8}.project-links+.tags{margin-top:auto}
